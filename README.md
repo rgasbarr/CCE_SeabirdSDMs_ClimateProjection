@@ -17,46 +17,46 @@ Code – Contains scripts detailing the SDM analysis workflow, creation of time-
 Data to run the scripts is contained in the following linked Zenodo repository:
 https://doi.org/10.5281/zenodo.17145095
 
-### "1_TransectSppPresMaps.R"                    
+### 1_TransectSppPresMaps.R                    
 Purpose: Plot presence/absence data for five seabird species in the California Current
 
-### "2_FitSDMs.R"    
+### 2_FitSDMs.R    
 Purpose: Fit boosted regression tree models to seabird presence & environmental data, inspect radar charts of variable importance for each spp.
 
-### "3_Project.R"                                
+### 3_Project.R                                
 Purpose: Script showing how boosted regression tree models are projected using daily ocean model (ROMS) data. This example uses one species: black-footed albatross (BFAL), and one earth-system model (IPSL).
 
-### "4_CreateClimatologies&TimeSeries.R"         
+### 4_CreateClimatologies&TimeSeries.R         
 Purpose: Script detailing process of creating habitat suitability climatologies & time-series. This example uses one species: black-footed albatross (BFAL), and one earth-system model (IPSL).
 
-### "5_∆HSI_ClimatolPlots.R"                     
+### 5_∆HSI_ClimatolPlots.R                     
 Purpose: Plot historical ensemble mean and change in HSI between future (2070-2100) & historical (1985-2015) time periods for each seabird species.
 
-### "6_SeasonalClimatolPlots.R"                  
+### 6_SeasonalClimatolPlots.R                 
 Purpose: Calulate and plot seasonal climatologies of occurrence probability from seabird SDMs.
 
-### "7_HistoricalVsFutureTimeSeriesAvgsByArea.R" 
+### 7_HistoricalVsFutureTimeSeriesAvgsByArea.R 
 Purpose: Create maps showing where projected core habitat exists in four of California's National Marine Sanctuaries (NMS) in each time period. 
 
-### "8_CoreHabitatByTimePeriod.R"                
+### 8_CoreHabitatByTimePeriod.R                
 Purpose: Calculate and plot changes in projected core habitat for seabird species by time period (e.g. historical vs. future).
 
-### "9_TimeSeriesDecomposition&TimeofEmergence.R"
+### 9_TimeSeriesDecomposition&TimeofEmergence.R
 Purpose: Example script showing time-series decomposition and time-of-emergence calculations using  model outputs
 
-### "10_MapCoreHabitat_NMS.R"                    
+### 10_MapCoreHabitat_NMS.R                    
 Purpose: Create maps showing where projected core habitat exists in National Marine Sanctuaries (NMS) in each time period
 
-### "11_MapCoreHabitat_WEAs.R"                   
+### 11_MapCoreHabitat_WEAs.R  
 Purpose: Create maps showing where projected core habitat exists in proposed Wind Energy Areas (WEA) in each time period
 
-### "12a_RandomSplit_CrossVal.R"                 
+### 12a_RandomSplit_CrossVal.R
 Purpose: Example script for performing random k-fold cross-validation on seabird SDMs
 
-### "12b_SpatiotemporalCrossVal.R"               
+### 12b_SpatiotemporalCrossVal.R
 Purpose: Example script for performing random spatial (by biogeographic province) and temporal (by year) cross-validation on seabird SDMs
 
-### "13_PlotSpatiotemporalCrossValResults.R"     
+### 13_PlotSpatiotemporalCrossValResults.R
 Purpose: Plot spatiotemporal cross-validation (see Scripts 12a & 12b) Results
 
 ## Details of Article
