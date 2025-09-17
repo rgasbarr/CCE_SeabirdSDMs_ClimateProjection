@@ -1,0 +1,9 @@
+cff-version: 1.0
+message: "If you use this code, please cite it below along with Gasbarro et al. (2025, PLoS Climate)."
+authors:
+- family-names: Gasbarro
+  given-names: ryan
+orcid: https://orcid.org/0000-0002-1719-7132
+title:rgasbarr/CCE_SeabirdSDMs_ClimateProjection: v1.0 – Seabird Distribution Modeling Code
+version: code
+date-released: 2025-09-17
