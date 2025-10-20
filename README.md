@@ -3,8 +3,7 @@
 This repository contains the code for the analyses and workflows associated with:
 
 Gasbarro et al. (2025, PLoS Climate)
-
-
+  <p></p>
 
 Authors:
 Ryan Gasbarro*, David J. Ainley, Kelly S. Andrews, Lisa T. Ballance, Hannah Blondin, Steven Bograd, Stephanie Brodie, Megan Cimino, Thomas Clay, Aspen Ellis, Joseph Evenson, John C. Field, Elliott L. Hazen, Michael Jacox, Jaime Jahncke, Trevor Joyce, Jeffery B. Leirness, Danielle Lipski, Barbara Muhling, Nerea Lezama-Ochoa, Mercedes Pozo-Buil, Adena Schonfeld, Amanda Warlick, Heather Welch, Jen Zamon, Kelly M. Zilliacus, Jarrod A. Santora
