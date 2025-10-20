@@ -2,8 +2,7 @@
 
 This repository contains the code for the analyses and workflows associated with:
 
-Gasbarro et al. (in press, PLoS Climate)
-doi: 10.1371/journal.pclm.0000687
+Gasbarro et al. (2025, PLoS Climate)
 
 Authors:
 Ryan Gasbarro*, David J. Ainley, Kelly S. Andrews, Lisa T. Ballance, Hannah Blondin, Steven Bograd, Stephanie Brodie, Megan Cimino, Thomas Clay, Aspen Ellis, Joseph Evenson, John C. Field, Elliott L. Hazen, Michael Jacox, Jaime Jahncke, Trevor Joyce, Jeffery B. Leirness, Danielle Lipski, Barbara Muhling, Nerea Lezama-Ochoa, Mercedes Pozo-Buil, Adena Schonfeld, Amanda Warlick, Heather Welch, Jen Zamon, Kelly M. Zilliacus, Jarrod A. Santora
@@ -63,7 +62,8 @@ Purpose: Example script for performing random spatial (by biogeographic province
 Purpose: Plot spatiotemporal cross-validation (see Scripts 12a & 12b) Results
 
 ## Details of Article
-Gasbarro et al. (in revision)
+Gasbarro et al. (2025, PLoS Climate)
+doi: 10.1371/journal.pclm.0000687	
 
 ## Disclaimer
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project content is provided on an "as is" basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
