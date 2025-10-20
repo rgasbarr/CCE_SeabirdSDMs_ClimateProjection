@@ -66,6 +66,7 @@ Purpose: Plot spatiotemporal cross-validation (see Scripts 12a & 12b) Results
 
 ## Details of Article
 Gasbarro et al. (2025, PLoS Climate)
+<br>
 doi: 10.1371/journal.pclm.0000687	
 
 ## Disclaimer
