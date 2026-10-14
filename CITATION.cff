@@ -1,5 +1,5 @@
 cff-version: 1.0
-message: "If you use this code, please cite it below along with Gasbarro et al. (2025, PLoS Climate)."
+message: "If you use this code, please cite it using the details below along with Gasbarro et al. (2025, PLoS Climate)."
 authors:
 - family-names: Gasbarro
   given-names: ryan
